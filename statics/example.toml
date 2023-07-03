@@ -1,0 +1,14 @@
+[general]
+debug = true
+config_directory = "/path/to/config"
+
+[[libraries]]
+name = "Library 1"
+location = "/path/to/library1"
+
+[[libraries]]
+name = "Library 2"
+location = "/path/to/library2"
+
+[lyrics]
+use_engine = ["Engine 1", "Engine 2"]

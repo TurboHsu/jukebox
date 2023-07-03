@@ -10,6 +10,7 @@ clap = { version = "4.3.5", features = ["derive"] }
 dirs = "5.0.1"
 lazy_static = "1.4.0"
 log = "0.4.19"
+rusqlite = "0.29.0"
 serde = "1.0.164"
 serde_derive = "1.0.164"
 simple_logger = "4.2.0"
